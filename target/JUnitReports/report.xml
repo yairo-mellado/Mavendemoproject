@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="50.648">
+    <testcase classname="Test Feature" name="First Scenario" time="50.357">
+        <system-out><![CDATA[When I go to Sauce page.....................................................passed
+And login with user "standard_user" and pass "secret_sauce".................passed
+And add "Sauce Labs Bolt T-Shirt" item to the cart..........................passed
+Then verify that "Sauce Labs Bolt T-Shirt" was added........................passed
+]]></system-out>
+    </testcase>
+</testsuite>
